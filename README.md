@@ -10,4 +10,6 @@
 \def\pdftexrevision{18}
 \fi\fi
 重新播放LaTeX专业级输入编译工具            链接：[Portable_VSCode_Tectonic_BaKoMa.TeX](https://pan.baidu.com/s/1r1EGhzuuTJR9o3IBPdA1VA) 提取码：2024
+
+
 SWP 5.5&6.1及VsCode均带有Tectonic系统，可编译XeLaTeX文档，BaKoMa TeX自带LaTeX系统，用e-latex 2e模仿PDFLaTeX编译LaTeX文档，均能独立运行，但两者组合要照顾各自需求。本文应该是作为SWP及BaKoMa TeX组合的终结篇了。
